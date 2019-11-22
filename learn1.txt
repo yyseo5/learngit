@@ -1,2 +1,4 @@
 Git is a version control system;
 Git is fress softwart;
+/这是添加的新内容/
+this grap is new;
