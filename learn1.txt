@@ -5,3 +5,4 @@ this grap is new;
 Git has a mutable index called stage
 This is a new paragraph or section;
 Git tracks changes;
+Git taacks changes of files;
