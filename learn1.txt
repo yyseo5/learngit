@@ -4,3 +4,4 @@ Git is fress softwart distributed under the GPL;
 this grap is new;
 Git has a mutable index called stage
 This is a new paragraph or section;
+Git tracks changes;
