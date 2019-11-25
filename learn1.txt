@@ -2,3 +2,5 @@ Git is a distributed version control system;
 Git is fress softwart distributed under the GPL;
 /这是添加的新内容/
 this grap is new;
+Git has a mutable index called stage
+This is a new paragraph or section;
