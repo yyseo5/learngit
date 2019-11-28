@@ -7,4 +7,4 @@ This is a new paragraph or section;
 Git tracks changes;
 Git taacks changes of files;
 Creating a new branch is quick;
-Creating a new branch "dev",get merge;
+Creating a new branch "dev",get merge
